@@ -134,7 +134,7 @@ The platform is designed to help property managers:
 * Maintain consistent tenant and property records
 * Make decisions using current operational information
 
-**Case study:** [View repository](YOUR_REPOSITORY_URL)
+**Case study:** [View repository](https://github.com/Paul-GL721/apm_system)
 
 ---
 
@@ -223,7 +223,8 @@ The platform includes:
 * CI/CD automation
 * Kubernetes deployment
 
-**Case study:** [View repository](YOUR_REPOSITORY_URL)
+**Case study:** [View web app repository](https://github.com/Paul-GL721/locator_web_app)
+**Case study:** [View mobile app repository](https://github.com/Paul-GL721/locator_mobile_app)
 
 ---
 
@@ -275,7 +276,7 @@ I designed and managed infrastructure involving:
 * AWS infrastructure integration
 * DNS and certificate automation
 
-**Architecture repository:** [View repository](YOUR_REPOSITORY_URL)
+**Architecture repository:** [View repository](https://github.com/Paul-GL721/kubernetes_setup)
 
 ---
 
@@ -326,7 +327,7 @@ The platform combines:
 * Cloud-based geospatial processing
 * Scientific workflow documentation
 
-**Research repository:** [View repository](YOUR_REPOSITORY_URL)
+**Research repository:** [View repository](https://github.com/Paul-GL721/enhanced_rock_weathering)
 
 ---
 

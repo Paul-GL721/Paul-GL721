@@ -581,9 +581,9 @@ I am particularly interested in working with organisations building solutions fo
 # Contact
 
 * **Portfolio:** [paulgobero.com](https://www.paulgobero.com)
-* **LinkedIn:** [Paul Gobero Lwanga](YOUR_LINKEDIN_URL)
+* **LinkedIn:** [Paul Gobero Lwanga](https://www.linkedin.com/in/paul-gobero-lwanga-921952195/)
 * **GitHub:** [Paul-GL721](https://github.com/Paul-GL721)
-* **Email:** YOUR_PROFESSIONAL_EMAIL
+* **Email:** paul@paulgobero.com
 * **Location:** Kampala, Uganda
 * **Availability:** Open to remote and international opportunities
 
